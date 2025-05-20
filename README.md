@@ -41,10 +41,10 @@ The goal of this project is to **analyze and modify ViT architectures** to perfo
 | in_channels      | 3    | learning_rate        | 1e-3    |
 | embed_dim        | 192  | weight_decay         | 5e-4    |
 | num_heads        | 8    |                      |         |
-| mlp_dim          | 256  |                      |         |
-| num_layers       | 6    | device               | 5090    |
-| num_classes      | 100  | training time        | 10 min  |
-| dropout          | 0.1  | trainable parameters | 1528228 |
+| mlp_dim          | 256  | device               | 5090    |
+| num_layers       | 6    | training time        | 10 min  |
+| num_classes      | 100  | trainable parameters | 1528228 |
+| dropout          | 0.1  | final accuracy       | 62.58%  |
 
 
 
